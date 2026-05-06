@@ -37,3 +37,4 @@ This project is designed to efficiently manage hospital operations such as patie
 ---
 
 ## 📂 Project Structure
+ Dashboard Of Hospital 

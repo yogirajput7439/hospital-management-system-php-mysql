@@ -37,5 +37,52 @@ This project is designed to efficiently manage hospital operations such as patie
 
 ---
 
-## 📂 Project Structure
- Dashboard Of Hospital With SQL Databases 
+# 📂 Project Structure
+
+```bash
+Aditya-Hospital-Management-System/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── script.js
+│   │
+│   └── images/
+│
+├── database/
+│   └── hospital.sql
+│
+├── includes/
+│   ├── connect.php
+│   ├── header.php
+│   ├── footer.php
+│   └── auth.php
+│
+├── admin/
+│   ├── dashboard.php
+│   ├── add_doctor.php
+│   ├── view_patients.php
+│   └── manage_appointments.php
+│
+├── doctor/
+│   ├── doctor_dashboard.php
+│   └── appointments.php
+│
+├── receptionist/
+│   ├── receptionist_dashboard.php
+│   └── add_patient.php
+│
+├── patient/
+│   ├── patient_dashboard.php
+│   └── medical_history.php
+│
+├── login.php
+├── register.php
+├── logout.php
+├── index.php
+└── README.md
+```
+
+---

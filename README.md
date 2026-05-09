@@ -17,7 +17,7 @@ This project is designed to efficiently manage hospital operations such as patie
   - Admin
   - Doctor
   - Receptionist
-- 🧾 Patient Management (Add / View / Delete)
+- 🧾 Patient Management (Add / View / Delete / Update)
 - 📅 Appointment Booking System
 - 📊 Separate Dashboards for Each Role
 - 🗂 Organized Database Structure
@@ -33,6 +33,7 @@ This project is designed to efficiently manage hospital operations such as patie
 | PHP      | Backend Logic |
 | MySQL    | Database |
 | XAMPP    | Local Server |
+| JavaScript | Script For HTML |
 
 ---
 

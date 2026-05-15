@@ -16,6 +16,7 @@ This project is designed to efficiently manage hospital operations such as patie
 - 👨‍⚕️ Multi-User Roles:
   - Admin
   - Doctor
+  - Patient
   - Receptionist
 - 🧾 Patient Management (Add / View / Delete / Update)
 - 📅 Appointment Booking System

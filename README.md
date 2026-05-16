@@ -87,3 +87,4 @@ Aditya-Hospital-Management-System/
 ```
 
 ---
+# Porject Details
